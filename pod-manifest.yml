@@ -10,6 +10,6 @@ spec:
     conatiners:
         - name: container1
           image: nginx
-        ports:
+          ports:
             - name: http-port
-            containerPort: 80
+              containerPort: 80
