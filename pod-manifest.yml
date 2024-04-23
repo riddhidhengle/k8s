@@ -5,4 +5,5 @@ metadata:
     labels: 
         app: prod
         env: xyz
-    namespace: my-prod-
+    namespace: my-prod-server
+spe
