@@ -4,4 +4,4 @@ metadata:
     name: pod1
     labels: 
         app: prod
-        
+        env: 
