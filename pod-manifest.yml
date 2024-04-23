@@ -7,7 +7,7 @@ metadata:
         env: xyz
     namespace: my-prod-server
 spec:
-    conatiners:
+    containers:
         - name: container1
           image: nginx
           ports:
