@@ -6,4 +6,6 @@ metadata:
         app: prod
         env: xyz
     namespace: my-prod-server
-spe
+spec:
+    conatiners:
+    
