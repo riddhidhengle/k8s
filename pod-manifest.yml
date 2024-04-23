@@ -10,4 +10,5 @@ spec:
     conatiners:
         - name: container1
         image: nginx
-        
+        ports:
+            - name
