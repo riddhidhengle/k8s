@@ -11,4 +11,5 @@ spec:
         - name: container1
         image: nginx
         ports:
-            - name
+            - name: http-port
+            
