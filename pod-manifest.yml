@@ -3,4 +3,5 @@ kind: Pod
 metadata:
     name: pod1
     labels: 
-        app: 
+        app: prod
+        
