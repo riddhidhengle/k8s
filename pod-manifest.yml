@@ -9,4 +9,4 @@ metadata:
 spec:
     conatiners:
         - name: container1
-        
+          image:
