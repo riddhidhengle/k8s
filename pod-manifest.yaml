@@ -13,3 +13,8 @@ spec:
           ports:
             - name: http-port
               containerPort: 80
+        - name: container2
+          image: tomcat
+          ports:
+            - name: http-port-2
+              containerPort: 8080           
