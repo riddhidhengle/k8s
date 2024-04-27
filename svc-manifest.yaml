@@ -2,6 +2,9 @@ apiVersion: v1
 kind: Service
 metadata:
   name: myapp
+  labels: 
+      app: prod
+      env: xyz
   namespace: my-prod-server
 spec:
   selector:
