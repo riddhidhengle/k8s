@@ -11,11 +11,11 @@ spec:
   selector:
     app: pod1
   ports:
-  - name: http
-    protocol: TCP
-    port: 80
-    targetport: 80
-  - name: http
-    protocol: TCP
-    port: 8080
-    targetport: 8080
+    - name: http
+      protocol: TCP
+      port: 80
+      targetport: 80
+    - name: http1
+      protocol: TCP
+      port: 8080
+      targetport: 8080
